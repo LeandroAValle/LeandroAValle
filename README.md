@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LeandroAValle/LeandroAValle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E aí! Sou um profissional em busca de novos desafios e aventuras no mundo da tecnologia. 
+Estou sempre ligado no modo aprendizado, buscando aprimorar minhas habilidades e expandir meus conhecimentos.
 
-Here are some ideas to get you started:
+Tenho uma paixão por compartilhar o que sei e estou sempre aberto a novas perspectivas e ideias inovadoras. 
+Gosto de me jogar de cabeça em projetos full-stack e desenvolver sistemas web!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quando se trata de tecnologias, possuo experiência C#, ASP.NET MVC e tenho uma relação íntima com HTML, CSS, JavaScript, jQuery e Bootstrap. 
+E se o assunto é banco de dados, pode contar comigo no SQL.
+
+No meu perfil do GitHub, você encontrará pequenos projetos demonstrando meu desenvolvimento em novas tecnologias.
+Estou ansioso para conectar-me com outros profissionais e compartilhar ideias e conhecimentos. 
+
