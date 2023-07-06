@@ -2,12 +2,15 @@
 <h1 align="center">E aí! 👋</h1>
 
 ## 🚀 Sobre mim
-*Sou desenvolvedor full-stack em busca de novos desafios e aventuras no mundo da tecnologia. 
+*Sou desenvolvedor Web Full Stack em busca de novos desafios e aventuras no mundo da tecnologia. 
 Estou sempre ligado no modo aprendizado, buscando aprimorar minhas habilidades e expandir meus conhecimentos.*
 
 *Tenho uma paixão por compartilhar o que sei e estou sempre aberto a novas perspectivas e ideias inovadoras. 
 Gosto de me jogar de cabeça em projetos full-stack e desenvolver sistemas web!*
 
+<hr>
+
+## 🛠 Habilidades
 *Quando se trata de tecnologias, possuo experiência C#, ASP.NET MVC e tenho uma relação íntima com HTML, CSS, JavaScript, jQuery e Bootstrap. 
 E se o assunto é banco de dados, pode contar comigo no SQL.*
 
@@ -26,11 +29,18 @@ E se o assunto é banco de dados, pode contar comigo no SQL.*
 
 <br>
 
-*No meu perfil do GitHub, você encontrará pequenos projetos demonstrando meu desenvolvimento em novas tecnologias.
-Estou ansioso para conectar-me com outros profissionais e compartilhar ideias e conhecimentos.*
+🧠 Estou aprendendo...
+
+<br>
 
 <hr>
 
+*No meu perfil do GitHub, você encontrará pequenos projetos demonstrando meu desenvolvimento em novas tecnologias.
+Estou ansioso para conectar-me com outros profissionais e compartilhar ideias e conhecimentos.*
+
+## 🔗 Links
+
+<br>
 <a href="www.linkedin.com/in/leandro-valle-68573a140"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/leandrovallew/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
