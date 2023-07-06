@@ -1,7 +1,8 @@
-### **E aí!** 👋
 
+<h1 align="center">E aí! 👋</h1>
 
-*Estou em busca de novos desafios e aventuras no mundo da tecnologia. 
+## 🚀 Sobre mim
+*Sou desenvolvedor full-stack em busca de novos desafios e aventuras no mundo da tecnologia. 
 Estou sempre ligado no modo aprendizado, buscando aprimorar minhas habilidades e expandir meus conhecimentos.*
 
 *Tenho uma paixão por compartilhar o que sei e estou sempre aberto a novas perspectivas e ideias inovadoras. 
