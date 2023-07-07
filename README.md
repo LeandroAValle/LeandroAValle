@@ -5,14 +5,14 @@
 *Sou desenvolvedor Web Full Stack em busca de novos desafios e aventuras no mundo da tecnologia. 
 Estou sempre ligado no modo aprendizado, buscando aprimorar minhas habilidades e expandir meus conhecimentos.*
 
+*Atualmente trabalho desenvolvendo sistemas de gestão web voltados para o setor público, 
+englobando áreas como saúde, educação, assistência social e demais segmentos.*
+
 *Tenho uma paixão por compartilhar o que sei e estou sempre aberto a novas perspectivas e ideias inovadoras. 
 Gosto de me jogar de cabeça em projetos full-stack e desenvolver sistemas web!*
-
 <hr>
 
 ## 🛠 Habilidades
-*Quando se trata de tecnologias, possuo experiência C#, ASP.NET MVC e tenho uma relação íntima com HTML, CSS, JavaScript, jQuery e Bootstrap. 
-E se o assunto é banco de dados, pode contar comigo no SQL.*
 
 <br>
 
@@ -29,7 +29,17 @@ E se o assunto é banco de dados, pode contar comigo no SQL.*
 
 <br>
 
-🧠 Estou aprendendo...
+*Quando se trata de tecnologias, possuo experiência C#, ASP.NET MVC e tenho uma relação íntima com HTML, CSS, JavaScript, jQuery e Bootstrap. 
+E se o assunto é banco de dados, pode contar comigo no SQL.*
+
+🧠 *Estou aprendendo mais sobre WEB APIs e outras tecnologias:*
+
+<div style="display: inline">
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+</div>
 
 <br>
 
