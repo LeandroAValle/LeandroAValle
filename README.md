@@ -1,7 +1,7 @@
-
 <h1 align="center">E aí! 👋</h1>
 
 ## 🚀 Sobre mim
+
 *Sou desenvolvedor Web Full Stack em busca de novos desafios e aventuras no mundo da tecnologia. 
 Estou sempre ligado no modo aprendizado, buscando aprimorar minhas habilidades e expandir meus conhecimentos.*
 
@@ -10,6 +10,7 @@ englobando áreas como saúde, educação, assistência social e demais segmento
 
 *Tenho uma paixão por compartilhar o que sei e estou sempre aberto a novas perspectivas e ideias inovadoras. 
 Gosto de me jogar de cabeça em projetos full-stack e desenvolver sistemas web!*
+
 <hr>
 
 ## 🛠 Habilidades
@@ -43,6 +44,8 @@ E se o assunto é banco de dados, pode contar comigo no SQL.*
 
 *No meu perfil do GitHub, você encontrará pequenos projetos demonstrando meu desenvolvimento em novas tecnologias.
 Estou ansioso para conectar-me com outros profissionais e compartilhar ideias e conhecimentos.*
+
+<img width='100' height='100' src="https://github.com/LeandroAValle/LeandroAValle/assets/91338048/4e079beb-aa5e-4f36-97a1-1f17c24ff3d3" />
 
 ## 🔗 Links
 
