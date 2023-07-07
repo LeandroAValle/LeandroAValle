@@ -14,8 +14,6 @@ Gosto de me jogar de cabeça em projetos full-stack e desenvolver sistemas web!*
 
 ## 🛠 Habilidades
 
-<br>
-
 <div style="display: inline">
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
@@ -40,8 +38,6 @@ E se o assunto é banco de dados, pode contar comigo no SQL.*
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
-
-<br>
 
 <hr>
 
