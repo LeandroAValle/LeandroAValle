@@ -51,6 +51,6 @@ Estou ansioso para conectar-me com outros profissionais e compartilhar ideias e 
 ## 🔗 Links
 
 <br>
-<a href="www.linkedin.com/in/leandro-valle-68573a140"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leandro-valle-68573a140/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/leandrovallew/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
