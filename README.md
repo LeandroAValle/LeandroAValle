@@ -69,6 +69,14 @@ Demonstração independente de um painel de gestão social com famílias, atendi
 
 <a href="https://leandroavalle.github.io/socialweb-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/socialweb-demo/main/docs/dashboard.png" alt="Painel público do SocialWeb Demo, com indicadores de territórios e dados fictícios" width="720" /></a>
 
+### [Migrador Folha Demo — da origem ao resultado auditável](https://github.com/LeandroAValle/migrador-folha-demo)
+
+Pipeline em Python com dados fictícios, validação antes do envio simulado, chave de negócio estável, histórico por registro e conciliação dos totais. O painel permite explorar os resultados sem acesso a banco ou API de produção.
+
+[**Explorar o código e o README**](https://github.com/LeandroAValle/migrador-folha-demo) · [**Abrir a demonstração**](https://leandroavalle.github.io/migrador-folha-demo/)
+
+<a href="https://leandroavalle.github.io/migrador-folha-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/migrador-folha-demo/main/docs/dashboard.png" alt="Painel público do Migrador Folha Demo, com métricas de migração sintética" width="720" /></a>
+
 ## Formação e aprendizado contínuo
 
 - Formação no **Centro Universitário de Rio Preto**.
