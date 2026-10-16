@@ -67,8 +67,8 @@ Meu laboratório de Engenharia de Dados em desenvolvimento. O repositório cont�
 | :--- | :--- | :--- |
 | [Portal de Compras Públicas](https://github.com/LeandroAValle/public-procurement-portal-demo) | Captura real da tela pública e arquitetura ASP.NET Core/SignalR para o fluxo de pregão eletrônico | [Estudo de caso](https://leandroavalle.github.io/public-procurement-portal-demo/) |
 | [DataAPS Demo](https://github.com/LeandroAValle/dataaps-demo) | Python ETL, FastAPI, React e indicadores APS com dados fictícios | [Demo](https://leandroavalle.github.io/dataaps-demo/) |
-| [Migrador Folha Demo](https://github.com/LeandroAValle/migrador-folha-demo) | Python, validação, trilha por registro e conciliação | [Demo](https://leandroavalle.github.io/migrador-folha-demo/) |
-| [Migrador Saúde Demo](https://github.com/LeandroAValle/migrador-saude-demo) | Guard de escrita, ledger e confirmação do resultado por item | [Demo](https://leandroavalle.github.io/migrador-saude-demo/) |
+| [Migrador Folha Demo](https://github.com/LeandroAValle/migrador-folha-demo) | Estudo de caso com identidade visual original e simulador Python local com dados sintéticos | [Estudo de caso](https://leandroavalle.github.io/migrador-folha-demo/) |
+| [Migrador Saúde Demo](https://github.com/LeandroAValle/migrador-saude-demo) | Captura real da autenticação pública, documentação e simulador offline com dados sintéticos | [Estudo de caso](https://leandroavalle.github.io/migrador-saude-demo/) |
 | [e-SUS ETL Flow](https://github.com/LeandroAValle/esus-etl-flow-demo) | Mapa interativo das dependências de ETL, sem arquivos operacionais | [Mapa](https://leandroavalle.github.io/esus-etl-flow-demo/) |
 | [BW Social](https://github.com/LeandroAValle/socialweb-demo) | Captura real da tela pública e API .NET independente com dados sintéticos | [Estudo de caso](https://leandroavalle.github.io/socialweb-demo/) |
 
