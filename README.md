@@ -57,9 +57,7 @@ Gosto de entender a operação antes de escrever código. No dia a dia, analiso 
 
 Meu laboratório de Engenharia de Dados em desenvolvimento. O repositório contém implementação de ingestão PostgreSQL, Bronze Delta Lake, Silver PySpark, **7 modelos Gold em dbt/DuckDB**, DAG Airflow, dashboard Streamlit e exportação Parquet. A vitrine separa código presente de tecnologias ainda planejadas.
 
-[**Explorar o código e as decisões**](https://github.com/LeandroAValle/esus-data-platform-lab) · [**Visualizar a arquitetura**](https://leandroavalle.github.io/esus-data-platform-lab/)
-
-<a href="https://leandroavalle.github.io/esus-data-platform-lab/"><img src="https://raw.githubusercontent.com/LeandroAValle/esus-data-platform-lab/main/docs/architecture-preview.png" alt="Arquitetura pública do laboratório eSUS Data Platform" width="720" /></a>
+[**Explorar o código e as decisões**](https://github.com/LeandroAValle/esus-data-platform-lab) · [**Ver estudo de caso e estado da arquitetura**](https://leandroavalle.github.io/esus-data-platform-lab/)
 
 ### Outros projetos para explorar
 
