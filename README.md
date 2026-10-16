@@ -65,6 +65,7 @@ Meu laboratório de Engenharia de Dados em desenvolvimento. O repositório cont�
 
 | Projeto | O que demonstra | Acesso |
 | :--- | :--- | :--- |
+| [Portal de Compras Públicas Demo](https://github.com/LeandroAValle/public-procurement-portal-demo) | Fluxo de pregão eletrônico, arquitetura ASP.NET Core/SignalR e interface conceitual com dados fictícios | [Demo](https://leandroavalle.github.io/public-procurement-portal-demo/) |
 | [DataAPS Demo](https://github.com/LeandroAValle/dataaps-demo) | Python ETL, FastAPI, React e indicadores APS com dados fictícios | [Demo](https://leandroavalle.github.io/dataaps-demo/) |
 | [Migrador Folha Demo](https://github.com/LeandroAValle/migrador-folha-demo) | Python, validação, trilha por registro e conciliação | [Demo](https://leandroavalle.github.io/migrador-folha-demo/) |
 | [Migrador Saúde Demo](https://github.com/LeandroAValle/migrador-saude-demo) | Guard de escrita, ledger e confirmação do resultado por item | [Demo](https://leandroavalle.github.io/migrador-saude-demo/) |
