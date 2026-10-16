@@ -53,29 +53,25 @@ Gosto de entender a operação antes de escrever código. No dia a dia, analiso 
 
 ## Projetos em destaque
 
-### [DataAPS Demo — do dado sintético ao indicador](https://github.com/LeandroAValle/dataaps-demo)
+### [eSUS Data Platform Lab — arquitetura Lakehouse para APS](https://github.com/LeandroAValle/esus-data-platform-lab)
 
-Protótipo público que mostra um fluxo completo: geração de dados fictícios, validação, transformação em Python, API FastAPI e dashboard React. O repositório documenta arquitetura, dicionário de dados, decisões técnicas e testes.
+Meu laboratório de Engenharia de Dados em desenvolvimento. O repositório contém implementação de ingestão PostgreSQL, Bronze Delta Lake, Silver PySpark, **7 modelos Gold em dbt/DuckDB**, DAG Airflow, dashboard Streamlit e exportação Parquet. A vitrine separa código presente de tecnologias ainda planejadas.
 
-[**Explorar o código e o README**](https://github.com/LeandroAValle/dataaps-demo) · [**Abrir a demonstração**](https://leandroavalle.github.io/dataaps-demo/)
+[**Explorar o código e as decisões**](https://github.com/LeandroAValle/esus-data-platform-lab) · [**Visualizar a arquitetura**](https://leandroavalle.github.io/esus-data-platform-lab/)
 
-<a href="https://leandroavalle.github.io/dataaps-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/dataaps-demo/main/docs/dashboard.png" alt="Painel público do DataAPS Demo, com indicadores calculados a partir de dados sintéticos" width="720" /></a>
+<a href="https://leandroavalle.github.io/esus-data-platform-lab/"><img src="https://raw.githubusercontent.com/LeandroAValle/esus-data-platform-lab/main/docs/architecture-preview.png" alt="Arquitetura pública do laboratório eSUS Data Platform" width="720" /></a>
 
-### [SocialWeb Demo — gestão social orientada por dados](https://github.com/LeandroAValle/socialweb-demo)
+### Outros projetos para explorar
 
-Demonstração independente de um painel de gestão social com famílias, atendimentos e benefícios **100% fictícios**. Inclui API em C#/.NET, indicadores reconciliáveis por território, testes e documentação das decisões técnicas.
+| Projeto | O que demonstra | Acesso |
+| :--- | :--- | :--- |
+| [DataAPS Demo](https://github.com/LeandroAValle/dataaps-demo) | Python ETL, FastAPI, React e indicadores APS com dados fictícios | [Demo](https://leandroavalle.github.io/dataaps-demo/) |
+| [Migrador Folha Demo](https://github.com/LeandroAValle/migrador-folha-demo) | Python, validação, trilha por registro e conciliação | [Demo](https://leandroavalle.github.io/migrador-folha-demo/) |
+| [Migrador Saúde Demo](https://github.com/LeandroAValle/migrador-saude-demo) | Guard de escrita, ledger e confirmação do resultado por item | [Demo](https://leandroavalle.github.io/migrador-saude-demo/) |
+| [e-SUS ETL Flow](https://github.com/LeandroAValle/esus-etl-flow-demo) | Mapa interativo das dependências de ETL, sem arquivos operacionais | [Mapa](https://leandroavalle.github.io/esus-etl-flow-demo/) |
+| [SocialWeb Demo](https://github.com/LeandroAValle/socialweb-demo) | API .NET, indicadores por território e painel de gestão social | [Demo](https://leandroavalle.github.io/socialweb-demo/) |
 
-[**Explorar o código e o README**](https://github.com/LeandroAValle/socialweb-demo) · [**Abrir a demonstração**](https://leandroavalle.github.io/socialweb-demo/)
-
-<a href="https://leandroavalle.github.io/socialweb-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/socialweb-demo/main/docs/dashboard.png" alt="Painel público do SocialWeb Demo, com indicadores de territórios e dados fictícios" width="720" /></a>
-
-### [Migrador Folha Demo — da origem ao resultado auditável](https://github.com/LeandroAValle/migrador-folha-demo)
-
-Pipeline em Python com dados fictícios, validação antes do envio simulado, chave de negócio estável, histórico por registro e conciliação dos totais. O painel permite explorar os resultados sem acesso a banco ou API de produção.
-
-[**Explorar o código e o README**](https://github.com/LeandroAValle/migrador-folha-demo) · [**Abrir a demonstração**](https://leandroavalle.github.io/migrador-folha-demo/)
-
-<a href="https://leandroavalle.github.io/migrador-folha-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/migrador-folha-demo/main/docs/dashboard.png" alt="Painel público do Migrador Folha Demo, com métricas de migração sintética" width="720" /></a>
+Todos os demos públicos usam dados fictícios ou metadados de arquitetura. Os sistemas operacionais e suas credenciais permanecem privados.
 
 ## Formação e aprendizado contínuo
 
