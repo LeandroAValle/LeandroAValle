@@ -9,6 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-valle-68573a140/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositórios-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroAValle?tab=repositories)
 
+<br />
+
+<img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" alt="Pikachu correndo" width="150" />
+
 </div>
 
 ---
