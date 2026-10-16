@@ -55,20 +55,22 @@ Gosto de entender a operação antes de escrever código. No dia a dia, analiso 
 
 ### [eSUS Data Platform Lab — arquitetura Lakehouse para APS](https://github.com/LeandroAValle/esus-data-platform-lab)
 
-Meu laboratório de Engenharia de Dados em desenvolvimento. O repositório contém implementação de ingestão PostgreSQL, Bronze Delta Lake, Silver PySpark, **7 modelos Gold em dbt/DuckDB**, DAG Airflow, dashboard Streamlit e exportação Parquet. A vitrine separa código presente de tecnologias ainda planejadas.
+Laboratório para engenheiros de dados organizarem dados autorizados do e-SUS em camadas Bronze, Silver e Gold e produzirem tabelas analíticas rastreáveis para a gestão da APS. Ajuda a tornar ingestões e transformações reproduzíveis; o projeto está em desenvolvimento e distingue código presente de tecnologias planejadas.
+
+O repositório contém ingestão PostgreSQL, Bronze Delta Lake, Silver PySpark, **7 modelos Gold em dbt/DuckDB**, DAG Airflow, dashboard Streamlit e exportação Parquet.
 
 [**Explorar o código e as decisões**](https://github.com/LeandroAValle/esus-data-platform-lab) · [**Ver estudo de caso e estado da arquitetura**](https://leandroavalle.github.io/esus-data-platform-lab/)
 
 ### Outros projetos para explorar
 
-| Projeto | O que demonstra | Acesso |
+| Projeto | Finalidade e público | Acesso |
 | :--- | :--- | :--- |
-| [Portal de Compras Públicas](https://github.com/LeandroAValle/public-procurement-portal-demo) | Captura real da tela pública e arquitetura ASP.NET Core/SignalR para o fluxo de pregão eletrônico | [Estudo de caso](https://leandroavalle.github.io/public-procurement-portal-demo/) |
-| [DataAPS Demo](https://github.com/LeandroAValle/dataaps-demo) | Python ETL, FastAPI, React e indicadores APS com dados fictícios | [Demo](https://leandroavalle.github.io/dataaps-demo/) |
-| [Migrador Folha Demo](https://github.com/LeandroAValle/migrador-folha-demo) | Estudo de caso com identidade visual original e simulador Python local com dados sintéticos | [Estudo de caso](https://leandroavalle.github.io/migrador-folha-demo/) |
-| [Migrador Saúde Demo](https://github.com/LeandroAValle/migrador-saude-demo) | Captura real da autenticação pública, documentação e simulador offline com dados sintéticos | [Estudo de caso](https://leandroavalle.github.io/migrador-saude-demo/) |
-| [e-SUS ETL Flow](https://github.com/LeandroAValle/esus-etl-flow-demo) | Mapa interativo das dependências de ETL, sem arquivos operacionais | [Mapa](https://leandroavalle.github.io/esus-etl-flow-demo/) |
-| [BW Social](https://github.com/LeandroAValle/socialweb-demo) | Captura real da tela pública e API .NET independente com dados sintéticos | [Estudo de caso](https://leandroavalle.github.io/socialweb-demo/) |
+| [Portal de Compras Públicas](https://github.com/LeandroAValle/public-procurement-portal-demo) | Ajuda órgãos públicos e fornecedores a organizar processos, propostas, lotes e pregões eletrônicos em um fluxo acompanhável. | [Estudo de caso](https://leandroavalle.github.io/public-procurement-portal-demo/) |
+| [DataAPS Demo](https://github.com/LeandroAValle/dataaps-demo) | Painel para gestores e equipes da APS acompanharem cobertura e qualidade dos registros e identificarem pontos para análise, com dados fictícios. | [Demo](https://leandroavalle.github.io/dataaps-demo/) |
+| [Migrador Folha Demo](https://github.com/LeandroAValle/migrador-folha-demo) | Apoia equipes de folha, implantação e dados a validar, transferir e reconciliar registros entre sistemas. Simulador com dados fictícios. | [Estudo de caso](https://leandroavalle.github.io/migrador-folha-demo/) |
+| [Migrador Saúde Demo](https://github.com/LeandroAValle/migrador-saude-demo) | Apoia equipes técnicas a transferir dados de saúde e conferir o resultado de cada registro. Simulador independente com dados fictícios. | [Estudo de caso](https://leandroavalle.github.io/migrador-saude-demo/) |
+| [e-SUS ETL Flow](https://github.com/LeandroAValle/esus-etl-flow-demo) | Mapa conceitual para equipes de dados entenderem pré-requisitos e a ordem das cargas e-SUS antes de uma migração. | [Mapa](https://leandroavalle.github.io/esus-etl-flow-demo/) |
+| [BW Social](https://github.com/LeandroAValle/socialweb-demo) | Sistema para equipes de assistência social organizarem cadastros familiares, atendimentos e programas sociais. | [Estudo de caso](https://leandroavalle.github.io/socialweb-demo/) |
 
 Todos os demos públicos usam dados fictícios ou metadados de arquitetura. Os sistemas operacionais e suas credenciais permanecem privados.
 
