@@ -1,61 +1,61 @@
-<h1 align="center">E aí! 👋</h1>
+<div align="center">
 
-## 🚀 Sobre mim
+# Leandro Valle
 
-*Sou desenvolvedor Web Full Stack. Trabalho com sistemas de gestão para o setor público,
-atendendo áreas como saúde, educação, assistência social, folha de pagamento,
-compras públicas e transporte escolar.*
+### Desenvolvimento de software • Engenharia de Dados em evolução
 
-*Boa parte do meu dia é resolver problema de sistema que já está em produção e não pode parar:
-migração de dados entre plataformas, integração via API, automação de rotina manual
-e modernização de aplicação legada sem quebrar quem depende dela.*
+Transformo regras de negócio complexas em sistemas, integrações e dados confiáveis — com foco em serviços públicos.
 
-*Gosto de entender a regra de negócio antes de escrever código. Em software público,
-um cálculo errado vira problema de gente de verdade recebendo salário errado.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-valle-68573a140/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LeandroAValle?tab=repositories)
 
-<hr>
-
-## 🛠 Stack principal
-
-<div style="display: inline">
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-<br>
+---
 
-**Back-end** — C#, .NET Framework e .NET moderno, ASP.NET MVC e ASP.NET Core, Entity Framework Core, Dapper, SignalR, Web APIs REST
+## Olá, eu sou o Leandro 👋
 
-**Dados** — SQL Server, modelagem e consulta pesada, ETL e migração entre bancos de origens diferentes
+Sou desenvolvedor full stack com experiência prática em engenharia de dados, migração e integração de sistemas. Trabalho com tecnologia para o setor público, em áreas como saúde, educação, assistência social, folha de pagamento, compras públicas e transporte escolar. Estou direcionando minha carreira para Engenharia de Dados.
 
-**Python** — scripts de migração, automação de relatório e ferramentas internas com Streamlit
+Gosto de entender a operação antes de escrever código. No dia a dia, analiso bases legadas, extraio e transformo dados, valido cargas, integro plataformas por API e modernizo aplicações em produção.
 
-**Front-end** — JavaScript, jQuery, HTML, CSS, Bootstrap, grids e componentes de tabela para tela de operação
+## O que faço
 
-<hr>
+| Área | Como atuo |
+| :--- | :--- |
+| **Sistemas web** | Desenvolvimento e evolução de aplicações para rotinas operacionais. |
+| **Integrações** | APIs, validação de dados e tratamento de falhas entre plataformas. |
+| **Engenharia de Dados** | Extração, transformação, qualidade, migração, conferência e reprocessamento de dados. |
+| **Modernização** | Evolução gradual de sistemas legados em produção. |
 
-## 🧩 No que costumo trabalhar
+## Tecnologias
 
-- **Migração de dados** entre sistemas legados e plataformas em nuvem, com controle de lote, reprocessamento e conferência de resultado
-- **Integração via API** com serviços de terceiros, tratando limite de campo, validação e erro de retorno
-- **Relatórios e documentos oficiais** exigidos por órgão de controle, onde o formato é lei e não sugestão
-- **Modernização de sistema legado**, trocando peça por peça sem derrubar o que já roda
+- **Back-end:** C#, .NET, ASP.NET Core, ASP.NET MVC, Entity Framework Core, Dapper
+- **Dados e automação:** SQL Server, Python, Pentaho Data Integration, Jupyter, ETL
+- **Front-end:** JavaScript, HTML, CSS, Bootstrap
+- **Fluxo de trabalho:** Git, APIs REST
 
-<hr>
+## Experiência aplicada em dados
 
-<img width='100' height='100' src="https://github.com/LeandroAValle/LeandroAValle/assets/91338048/4e079beb-aa5e-4f36-97a1-1f17c24ff3d3" />
+- **Saúde:** migração de dados do e-SUS APS e de sistemas legados para uma plataforma em nuvem, com mapeamento de campos, transformação, validação, carga por API, prevenção de duplicidades e conferência dos resultados.
+- **Educação:** integração de dados acadêmicos e cadastrais com a Secretaria Escolar Digital (SED), usando Pentaho, Python e Jupyter para preparar e validar as informações.
+- **Folha de pagamento:** análise de bases legadas, regras de migração, consultas SQL, padronização, tratamento de inconsistências e validação das cargas.
 
-## 🔗 Links
+## Formação e aprendizado contínuo
 
-<br>
-<a href="https://www.linkedin.com/in/leandro-valle-68573a140/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/leandrovallew/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+- Formação no **Centro Universitário de Rio Preto**.
+- **Engenharia de Dados com IA** — Alura, 2026.
+- **Imersão Profissional Jornada de Dados** — Jornada de Dados, 2026.
+- **Masterclass Building IA Products** — Alura, 2026.
+
+Minha trajetória combina desenvolvimento de sistemas com trabalho direto em dados reais. Estou aprofundando essa base para atuar cada vez mais em engenharia de dados, qualidade e integração de informações.
+
+## Como penso sobre software
+
+> Código bom começa com uma regra de negócio bem compreendida.
+
+Em sistemas públicos, uma integração falha ou um cálculo incorreto pode afetar diretamente o atendimento e a vida das pessoas. Por isso, valorizo clareza, validação e evolução cuidadosa de sistemas em uso.
+
+## Vamos conversar?
+
+[LinkedIn](https://www.linkedin.com/in/leandro-valle-68573a140/) · [Repositórios](https://github.com/LeandroAValle?tab=repositories)
