@@ -51,7 +51,7 @@ Gosto de entender a operação antes de escrever código. No dia a dia, analiso 
 - **Educação:** integração de dados acadêmicos e cadastrais com a Secretaria Escolar Digital (SED), usando Pentaho, Python e Jupyter para preparar e validar as informações.
 - **Folha de pagamento:** análise de bases legadas, regras de migração, consultas SQL, padronização, tratamento de inconsistências e validação das cargas.
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### [DataAPS Demo — do dado sintético ao indicador](https://github.com/LeandroAValle/dataaps-demo)
 
@@ -60,6 +60,14 @@ Protótipo público que mostra um fluxo completo: geração de dados fictícios,
 [**Explorar o código e o README**](https://github.com/LeandroAValle/dataaps-demo) · [**Abrir a demonstração**](https://leandroavalle.github.io/dataaps-demo/)
 
 <a href="https://leandroavalle.github.io/dataaps-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/dataaps-demo/main/docs/dashboard.png" alt="Painel público do DataAPS Demo, com indicadores calculados a partir de dados sintéticos" width="720" /></a>
+
+### [SocialWeb Demo — gestão social orientada por dados](https://github.com/LeandroAValle/socialweb-demo)
+
+Demonstração independente de um painel de gestão social com famílias, atendimentos e benefícios **100% fictícios**. Inclui API em C#/.NET, indicadores reconciliáveis por território, testes e documentação das decisões técnicas.
+
+[**Explorar o código e o README**](https://github.com/LeandroAValle/socialweb-demo) · [**Abrir a demonstração**](https://leandroavalle.github.io/socialweb-demo/)
+
+<a href="https://leandroavalle.github.io/socialweb-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/socialweb-demo/main/docs/dashboard.png" alt="Painel público do SocialWeb Demo, com indicadores de territórios e dados fictícios" width="720" /></a>
 
 ## Formação e aprendizado contínuo
 
