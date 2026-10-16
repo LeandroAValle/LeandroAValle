@@ -51,6 +51,16 @@ Gosto de entender a operação antes de escrever código. No dia a dia, analiso 
 - **Educação:** integração de dados acadêmicos e cadastrais com a Secretaria Escolar Digital (SED), usando Pentaho, Python e Jupyter para preparar e validar as informações.
 - **Folha de pagamento:** análise de bases legadas, regras de migração, consultas SQL, padronização, tratamento de inconsistências e validação das cargas.
 
+## Projeto em destaque
+
+### [DataAPS Demo — do dado sintético ao indicador](https://github.com/LeandroAValle/dataaps-demo)
+
+Protótipo público que mostra um fluxo completo: geração de dados fictícios, validação, transformação em Python, API FastAPI e dashboard React. O repositório documenta arquitetura, dicionário de dados, decisões técnicas e testes.
+
+[**Explorar o código e o README**](https://github.com/LeandroAValle/dataaps-demo) · [**Abrir a demonstração**](https://leandroavalle.github.io/dataaps-demo/)
+
+<a href="https://leandroavalle.github.io/dataaps-demo/"><img src="https://raw.githubusercontent.com/LeandroAValle/dataaps-demo/main/docs/dashboard.png" alt="Painel público do DataAPS Demo, com indicadores calculados a partir de dados sintéticos" width="720" /></a>
+
 ## Formação e aprendizado contínuo
 
 - Formação no **Centro Universitário de Rio Preto**.
