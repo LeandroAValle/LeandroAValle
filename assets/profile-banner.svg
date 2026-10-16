@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Leandro Valle — software e engenharia de dados</title>
+  <desc id="description">Banner azul escuro com elementos gráficos de fluxo de dados e o nome Leandro Valle.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1024"/>
+      <stop offset="0.6" stop-color="#102b46"/>
+      <stop offset="1" stop-color="#075b65"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop offset="0" stop-color="#45d6d1"/>
+      <stop offset="1" stop-color="#82a9ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b9d5ed" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <path d="M760 227C840 227 840 85 920 85S1000 180 1080 180H1160" fill="none" stroke="#45d6d1" stroke-width="2" stroke-opacity=".7"/>
+  <path d="M730 80C810 80 810 178 890 178S970 95 1050 95H1160" fill="none" stroke="#82a9ff" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M800 265C875 265 875 143 950 143S1025 240 1100 240H1160" fill="none" stroke="#b9d5ed" stroke-width="2" stroke-opacity=".3"/>
+  <g fill="#45d6d1"><circle cx="920" cy="85" r="7"/><circle cx="1080" cy="180" r="7"/><circle cx="950" cy="143" r="7"/></g>
+  <g fill="#82a9ff"><circle cx="890" cy="178" r="7"/><circle cx="1050" cy="95" r="7"/></g>
+  <rect x="52" y="48" width="4" height="204" rx="2" fill="url(#accent)"/>
+  <text x="82" y="105" fill="#77e4df" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">DESENVOLVIMENTO + DADOS</text>
+  <text x="82" y="170" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Leandro Valle</text>
+  <text x="82" y="218" fill="#d5e9f2" font-family="Arial, Helvetica, sans-serif" font-size="22">Sistemas públicos · Integrações · Engenharia de Dados</text>
+</svg>
