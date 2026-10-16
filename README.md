@@ -75,6 +75,7 @@ O repositório contém ingestão PostgreSQL, Bronze Delta Lake, Silver PySpark, 
 | [Migrador Saúde Demo](https://github.com/LeandroAValle/migrador-saude-demo) | Apoia equipes técnicas a transferir dados de saúde e conferir o resultado de cada registro. Simulador independente com dados fictícios. | [Estudo de caso](https://leandroavalle.github.io/migrador-saude-demo/) |
 | [e-SUS ETL Flow](https://github.com/LeandroAValle/esus-etl-flow-demo) | Mapa conceitual para equipes de dados entenderem pré-requisitos e a ordem das cargas e-SUS antes de uma migração. | [Mapa](https://leandroavalle.github.io/esus-etl-flow-demo/) |
 | [BW Social](https://github.com/LeandroAValle/socialweb-demo) | Sistema para equipes de assistência social organizarem cadastros familiares, atendimentos e programas sociais. | [Estudo de caso](https://leandroavalle.github.io/socialweb-demo/) |
+| Portfólio profissional — Jelder Eric | Site em produção que apresenta atuação em sociologia, pesquisa, análise de dados e comunicação estratégica para políticas públicas, com estudos de caso e canal de contato. | [Acessar o site](https://jeldereric.com) |
 
 Todos os demos públicos usam dados fictícios ou metadados de arquitetura. Os sistemas operacionais e suas credenciais permanecem privados.
 
